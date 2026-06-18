@@ -65,4 +65,4 @@ User creates and manages events
 Data stored in MySQL and updated dynamically
 
 📌 Summary
-Smart Event Planner is a modern full-stack event management system that combines secure authentication, efficient event tracking, and a user-friendly interface to simplify event organization from s
+Smart Event Planner is a modern full-stack event management system that combines secure authentication, efficient event tracking, and a user-friendly interface to simplify event organization from planning and scheduling to participant management and event execution. The platform helps users create, manage, and monitor events seamlessly, improving productivity and reducing manual effort.
